@@ -14,7 +14,7 @@
         {
           "anchor": "D&O Dashboard",
           "icon": "gauge-high",
-          "href": "https://salt-directors-and-officers-dashboard-production.up.railway.app"
+          "href": "https://salt-platform.up.railway.app/dashboard"
         },
         {
           "anchor": "Silverado PIPE",
@@ -130,7 +130,7 @@
     "links": [
       {
         "label": "Dashboard",
-        "href": "https://salt-directors-and-officers-dashboard-production.up.railway.app"
+        "href": "https://salt-platform.up.railway.app/dashboard"
       }
     ],
     "primary": {
